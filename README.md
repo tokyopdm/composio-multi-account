@@ -65,7 +65,7 @@ composio-multi-account/
 
 ## Authors
 
-**Christine B.** — Founder, [Social AI](https://www.socialai.jp)
+**Christine B.** ([@tokyopdm](https://github.com/tokyopdm)) — Founder, [Social AI](https://www.socialai.jp)
 
 **Claude** (Anthropic) — Co-author
 
